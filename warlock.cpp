@@ -26,7 +26,10 @@ class suckIt
 
 };
 
-
+int main()
+{
+	cout << "HUE" << endl;
+}
 
 
 #endif
